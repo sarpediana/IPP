@@ -1,0 +1,15 @@
+.idea
+.tmpdoc
+.tmp
+attachments/
+/npm-debug.log
+coverage
+dist/
+node_modules
+typings
+config/production.yml
+*.log
+spec.json
+*.lock
+package-lock.json
+.js

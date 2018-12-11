@@ -1,0 +1,20 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "generate-password": "^1.4.1",
+    "hash": "^0.2.1",
+    "password": "^0.1.1",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc Adapter/demo.ts && node Adapter/demo.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
