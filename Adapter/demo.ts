@@ -1,5 +1,5 @@
-import { LightningToMicroUSBAdapter } from './Clases/LightningToMicroUSBAdapter'
-import { iPhone } from './Clases/Iphone'
+import { LightningToMicroUSBAdapter } from './LightningToMicroUSBAdapter'
+import { iPhone } from './IphoneClass'
 
 let iphone = new iPhone();
 let chargeAdaptor = new LightningToMicroUSBAdapter(iphone);

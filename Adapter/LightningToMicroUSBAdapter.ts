@@ -1,5 +1,5 @@
-import { IPhone } from '../Interface/IPhone'
-import { Android } from '../Interface/IAndroid'
+import { IPhone } from './IPhone'
+import { Android } from './IAndroid'
 
 export class LightningToMicroUSBAdapter implements Android {
     iphoneDevice: IPhone;

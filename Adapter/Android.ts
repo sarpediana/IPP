@@ -1,4 +1,4 @@
-import { Android} from '../Interface/IAndroid'
+import { Android} from './IAndroid'
 
 class GooglePixel implements Android {
     useMicroUSB() {
